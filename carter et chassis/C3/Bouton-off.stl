@@ -1,0 +1,86 @@
+solid Import CV5 provisoire | OCIM07AJP5 | 001 | INNOV | LCI_CONCEPT
+  facet normal 0.000000e+00 0.000000e+00 1.000000e+00
+    outer loop
+      vertex -7.722262e+01 -9.600000e+01 -5.500000e+01
+      vertex -4.722262e+01 -9.600000e+01 -5.500000e+01
+      vertex -7.722262e+01 -6.600000e+01 -5.500000e+01
+    endloop
+  endfacet
+  facet normal -0.000000e+00 0.000000e+00 1.000000e+00
+    outer loop
+      vertex -7.722262e+01 -6.600000e+01 -5.500000e+01
+      vertex -4.722262e+01 -9.600000e+01 -5.500000e+01
+      vertex -4.722262e+01 -6.600000e+01 -5.500000e+01
+    endloop
+  endfacet
+  facet normal 1.000000e+00 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -4.722262e+01 -9.600000e+01 -7.700000e+01
+      vertex -4.722262e+01 -6.600000e+01 -7.700000e+01
+      vertex -4.722262e+01 -9.600000e+01 -5.500000e+01
+    endloop
+  endfacet
+  facet normal 1.000000e+00 -0.000000e+00 0.000000e+00
+    outer loop
+      vertex -4.722262e+01 -9.600000e+01 -5.500000e+01
+      vertex -4.722262e+01 -6.600000e+01 -7.700000e+01
+      vertex -4.722262e+01 -6.600000e+01 -5.500000e+01
+    endloop
+  endfacet
+  facet normal 0.000000e+00 0.000000e+00 -1.000000e+00
+    outer loop
+      vertex -4.722262e+01 -9.600000e+01 -7.700000e+01
+      vertex -7.722262e+01 -9.600000e+01 -7.700000e+01
+      vertex -4.722262e+01 -6.600000e+01 -7.700000e+01
+    endloop
+  endfacet
+  facet normal -0.000000e+00 0.000000e+00 -1.000000e+00
+    outer loop
+      vertex -4.722262e+01 -6.600000e+01 -7.700000e+01
+      vertex -7.722262e+01 -9.600000e+01 -7.700000e+01
+      vertex -7.722262e+01 -6.600000e+01 -7.700000e+01
+    endloop
+  endfacet
+  facet normal -1.000000e+00 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -7.722262e+01 -9.600000e+01 -5.500000e+01
+      vertex -7.722262e+01 -6.600000e+01 -5.500000e+01
+      vertex -7.722262e+01 -9.600000e+01 -7.700000e+01
+    endloop
+  endfacet
+  facet normal -1.000000e+00 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -7.722262e+01 -9.600000e+01 -7.700000e+01
+      vertex -7.722262e+01 -6.600000e+01 -5.500000e+01
+      vertex -7.722262e+01 -6.600000e+01 -7.700000e+01
+    endloop
+  endfacet
+  facet normal 0.000000e+00 -1.000000e+00 0.000000e+00
+    outer loop
+      vertex -7.722262e+01 -9.600000e+01 -5.500000e+01
+      vertex -7.722262e+01 -9.600000e+01 -7.700000e+01
+      vertex -4.722262e+01 -9.600000e+01 -5.500000e+01
+    endloop
+  endfacet
+  facet normal 0.000000e+00 -1.000000e+00 -0.000000e+00
+    outer loop
+      vertex -4.722262e+01 -9.600000e+01 -5.500000e+01
+      vertex -7.722262e+01 -9.600000e+01 -7.700000e+01
+      vertex -4.722262e+01 -9.600000e+01 -7.700000e+01
+    endloop
+  endfacet
+  facet normal -0.000000e+00 1.000000e+00 0.000000e+00
+    outer loop
+      vertex -7.722262e+01 -6.600000e+01 -5.500000e+01
+      vertex -4.722262e+01 -6.600000e+01 -5.500000e+01
+      vertex -7.722262e+01 -6.600000e+01 -7.700000e+01
+    endloop
+  endfacet
+  facet normal 0.000000e+00 1.000000e+00 0.000000e+00
+    outer loop
+      vertex -7.722262e+01 -6.600000e+01 -7.700000e+01
+      vertex -4.722262e+01 -6.600000e+01 -5.500000e+01
+      vertex -4.722262e+01 -6.600000e+01 -7.700000e+01
+    endloop
+  endfacet
+endsolid

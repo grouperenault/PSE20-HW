@@ -1,0 +1,2 @@
+in these directory, you can find all 3D and cutting information about the trolley.
+you can use only the upper part of the trolley (with spring sensor) and combine it with lower part form other trolley

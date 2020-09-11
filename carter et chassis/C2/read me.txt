@@ -1,0 +1,2 @@
+in this directory, you will find 3D data about C2 housing
+data about other components (chassis, cutting plastic parts etc) are in C1 directory
