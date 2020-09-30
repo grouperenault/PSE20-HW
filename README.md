@@ -13,3 +13,5 @@ This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED
 WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY
 AND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN-OHL-S v2
 for applicable conditions.
+
+For a description of the project, please refer to the [Readme of the PSE20-SW project](https://github.com/grouperenault/PSE20-SW/blob/master/README.md).
