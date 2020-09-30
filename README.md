@@ -14,4 +14,12 @@ WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY
 AND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN-OHL-S v2
 for applicable conditions.
 
-For a description of the project, please refer to the [Readme of the PSE20-SW project](https://github.com/grouperenault/PSE20-SW/blob/master/README.md).
+This repository contains the Design files for the CAD and Electronic elements of the PSE20-HW project.
+
+For a detailed description of the ELECSYR syringe pump, please refer to [the specification](documentation/Specification\ Elecsyr_ENG.pdf).
+
+![Two stacked ELECSYR units](img/IMG_1486-crop.png)
+
+![Early ELECSYR prototypes](img/imgpsh_fullsize.jpg)
+
+![Project Logo](img/lgo.jpg)
