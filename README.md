@@ -16,10 +16,10 @@ for applicable conditions.
 
 This repository contains the Design files for the CAD and Electronic elements of the PSE20-HW project.
 
-For a detailed description of the ELECSYR syringe pump, please refer to [the specification](documentation/Specification\ Elecsyr_ENG.pdf).
+For a detailed description of the ELECSYR syringe pump, please refer to [the documentation section](documentation/).
 
 ![Two stacked ELECSYR units](img/IMG_1486-crop.png)
 
 ![Early ELECSYR prototypes](img/imgpsh_fullsize.jpg)
 
-![Project Logo](img/lgo.jpg)
+![Project Logo](img/lgo.JPG)
